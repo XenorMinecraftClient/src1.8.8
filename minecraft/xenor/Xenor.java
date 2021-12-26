@@ -92,7 +92,7 @@ public class Xenor {
 		
 		altManager = new AltManager();
 		
-		SessionChanger.getInstance().setUser("samuele_rade@hotmail.com", "halleluia123!");
+		//SessionChanger.getInstance().setUserOffline("");
 		
 		//MYSQL
 		MySQL.connect();
